@@ -82,10 +82,14 @@ ORDER BY count_media DESC;
 
 -- Посчитать лайки для моих документов (моих медиа)
 
-SELECT m.id, m.filename, COUNT(l.id) AS like_count
-FROM media m
-JOIN likes l ON m.id = l.media_id
-JOIN users u ON l.user_id = u.id
+SELECT
+	CONCAT(u.firstname, " ", u.lastname) AS fullname, 
+    m.filename AS media_name,
+    m.id,
+	COUNT(*) AS total_likes
+FROM media m 
+JOIN users u ON u.id = m.user_id
+JOIN likes l ON l.media_id = m.id
 WHERE u.id = 1
 GROUP BY m.id;
 
