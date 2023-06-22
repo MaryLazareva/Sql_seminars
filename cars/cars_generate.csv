@@ -1,0 +1,1001 @@
+id,make,model,year,color,price
+1,Ford,Camry,2022,Goldenrod,839611.79
+2,Porsche,Model S,1960,Maroon,412569.77
+3,Ford,Model S,1989,Goldenrod,722305.47
+4,Nissan,3 Series,1969,Aquamarine,492972.51
+5,Toyota,Model S,1962,Mauv,475279.11
+6,Porsche,A4,1999,Yellow,139958.71
+7,Porsche,911,1992,Violet,824047.02
+8,Tesla,Camry,1951,Indigo,157487.01
+9,Ford,Civic,2003,Orange,74288.62
+10,Porsche,E-Class,1984,Blue,550803.26
+11,Porsche,Altima,1993,Aquamarine,177076.31
+12,BMW,Corvette,1960,Turquoise,985119.08
+13,Audi,Model S,2005,Teal,122119.97
+14,Porsche,3 Series,1954,Teal,957728.9
+15,Chevrolet,Civic,1978,Red,781323.09
+16,Porsche,A4,2013,Maroon,78559.52
+17,Honda,Camry,1977,Fuscia,899329.48
+18,BMW,Civic,2020,Crimson,626366.54
+19,Honda,911,1981,Red,927106.09
+20,Mercedes-Benz,Corvette,1966,Indigo,878192.48
+21,Nissan,A4,2003,Fuscia,29861.29
+22,Mercedes-Benz,3 Series,2022,Yellow,495627.03
+23,Toyota,E-Class,1985,Fuscia,686846.74
+24,Toyota,3 Series,1987,Mauv,918644.36
+25,Audi,911,2017,Green,529935.49
+26,Nissan,Camry,2004,Aquamarine,833789.94
+27,Tesla,Mustang,1961,Puce,182909.47
+28,Chevrolet,Model S,1961,Fuscia,259375.65
+29,Audi,911,1992,Goldenrod,710802.0
+30,Toyota,Corvette,1994,Aquamarine,148075.64
+31,Honda,Mustang,2009,Maroon,335853.81
+32,Audi,911,1976,Mauv,548140.85
+33,Tesla,Civic,1971,Green,365853.8
+34,Audi,Model S,1968,Violet,858190.58
+35,Audi,911,1998,Indigo,963876.38
+36,Honda,911,1961,Mauv,582838.48
+37,Toyota,Camry,1985,Teal,244143.97
+38,Mercedes-Benz,Civic,1982,Red,583507.54
+39,Porsche,E-Class,2017,Khaki,47114.2
+40,Honda,911,1992,Mauv,583366.07
+41,Nissan,Civic,2004,Maroon,373034.05
+42,Tesla,Civic,1996,Goldenrod,450252.15
+43,Porsche,Mustang,1960,Violet,638797.79
+44,Toyota,3 Series,1993,Orange,193263.7
+45,Mercedes-Benz,911,1973,Orange,997909.84
+46,Tesla,911,1989,Fuscia,468553.58
+47,Porsche,Altima,1980,Puce,761849.48
+48,Toyota,Mustang,1977,Yellow,697599.17
+49,Toyota,Camry,2008,Red,534927.13
+50,Audi,Model S,1976,Yellow,147976.41
+51,Porsche,Altima,2007,Indigo,919852.09
+52,BMW,Model S,1973,Pink,413118.53
+53,Ford,Civic,2022,Indigo,154033.79
+54,Audi,911,1960,Yellow,1532.67
+55,Tesla,Camry,1984,Goldenrod,638470.02
+56,Audi,Camry,2001,Teal,75218.68
+57,Ford,Civic,1953,Fuscia,672764.46
+58,Ford,A4,2000,Yellow,555116.56
+59,Honda,Corvette,1981,Red,795146.69
+60,Honda,Altima,1978,Goldenrod,175891.53
+61,Toyota,911,2001,Pink,396784.67
+62,Nissan,A4,2012,Goldenrod,93806.15
+63,Ford,Model S,1955,Khaki,949415.92
+64,Honda,Altima,1977,Khaki,757517.28
+65,Audi,Civic,2003,Mauv,954506.53
+66,Mercedes-Benz,Model S,1996,Maroon,932424.95
+67,Audi,Altima,2012,Green,444491.93
+68,Mercedes-Benz,Altima,1966,Red,820680.56
+69,Audi,A4,1962,Violet,175976.79
+70,Ford,3 Series,1989,Red,357059.28
+71,Mercedes-Benz,E-Class,1998,Indigo,801035.99
+72,Toyota,A4,1956,Goldenrod,461302.58
+73,Nissan,Mustang,1951,Pink,730405.88
+74,Porsche,Altima,1984,Pink,386885.76
+75,Mercedes-Benz,3 Series,2021,Violet,877756.8
+76,Mercedes-Benz,Model S,1988,Green,478409.75
+77,Mercedes-Benz,E-Class,1950,Purple,143935.18
+78,Tesla,Altima,2020,Orange,473245.96
+79,Nissan,E-Class,1981,Yellow,933550.06
+80,BMW,Camry,1975,Maroon,367127.67
+81,Tesla,Model S,1973,Purple,152395.12
+82,Nissan,3 Series,1951,Pink,374086.27
+83,BMW,Mustang,2016,Puce,332502.17
+84,Porsche,Altima,1956,Teal,392975.45
+85,Tesla,E-Class,1962,Green,694099.17
+86,Mercedes-Benz,Altima,1999,Goldenrod,205073.33
+87,Chevrolet,Model S,1970,Goldenrod,578098.78
+88,Mercedes-Benz,Civic,1983,Fuscia,534237.33
+89,Ford,Model S,1953,Turquoise,194500.51
+90,Mercedes-Benz,Camry,1970,Orange,954786.52
+91,Porsche,A4,1966,Puce,257456.72
+92,Porsche,Civic,1971,Pink,796454.49
+93,Honda,E-Class,1991,Yellow,393845.09
+94,Ford,911,1980,Khaki,889278.76
+95,Toyota,Mustang,2017,Indigo,266727.61
+96,Toyota,3 Series,1977,Pink,940139.59
+97,Toyota,Model S,1979,Indigo,214593.27
+98,Toyota,Altima,2009,Fuscia,150183.54
+99,Audi,Mustang,2004,Orange,900341.56
+100,Honda,E-Class,1954,Turquoise,836273.06
+101,Porsche,E-Class,1970,Turquoise,747125.54
+102,Honda,Camry,1989,Red,497536.6
+103,Porsche,911,1980,Indigo,216532.92
+104,Ford,911,1980,Fuscia,34311.65
+105,Audi,Altima,2018,Fuscia,758426.27
+106,Ford,Camry,1994,Crimson,690441.84
+107,Toyota,911,1964,Teal,262224.43
+108,Ford,Corvette,2019,Yellow,983883.3
+109,Nissan,911,2004,Goldenrod,454083.21
+110,Chevrolet,E-Class,1958,Puce,496658.72
+111,Mercedes-Benz,911,2000,Khaki,385587.2
+112,Chevrolet,Civic,2004,Teal,362789.49
+113,Honda,Civic,1955,Crimson,752100.23
+114,Ford,Corvette,1998,Orange,606133.07
+115,Chevrolet,Civic,1980,Puce,308099.79
+116,Mercedes-Benz,3 Series,1966,Fuscia,601109.31
+117,Porsche,Model S,1989,Green,48397.48
+118,Audi,Altima,1989,Fuscia,734172.18
+119,Chevrolet,Model S,1974,Puce,293343.87
+120,Chevrolet,3 Series,2014,Aquamarine,388467.04
+121,Tesla,Corvette,1965,Blue,874525.19
+122,Ford,Corvette,1952,Purple,808307.91
+123,Mercedes-Benz,Model S,1989,Orange,115614.68
+124,Toyota,Model S,1998,Blue,325378.6
+125,Tesla,A4,1952,Blue,81379.04
+126,BMW,3 Series,1982,Aquamarine,138629.4
+127,BMW,3 Series,1957,Pink,509619.29
+128,Porsche,Model S,1974,Aquamarine,353666.46
+129,Audi,Civic,1966,Aquamarine,330738.24
+130,BMW,Camry,1981,Khaki,492102.72
+131,BMW,E-Class,1974,Yellow,255593.71
+132,Tesla,Model S,1984,Violet,834458.67
+133,Porsche,Corvette,1988,Green,951096.16
+134,Audi,911,2007,Aquamarine,803901.04
+135,Tesla,911,1965,Aquamarine,992544.54
+136,Porsche,Altima,1988,Khaki,890111.47
+137,Nissan,Civic,1980,Orange,385594.56
+138,BMW,A4,1974,Pink,682619.81
+139,Toyota,Altima,1982,Goldenrod,888670.77
+140,Honda,E-Class,1994,Maroon,575101.94
+141,Nissan,Mustang,2021,Aquamarine,901232.65
+142,Audi,911,1990,Orange,348693.52
+143,Mercedes-Benz,Model S,1963,Indigo,265481.41
+144,Mercedes-Benz,911,1962,Khaki,723308.86
+145,Ford,Altima,1993,Pink,662482.28
+146,Honda,Corvette,2007,Turquoise,200927.73
+147,Toyota,E-Class,1983,Yellow,420151.09
+148,Nissan,Altima,1956,Purple,527171.47
+149,Honda,Altima,1994,Fuscia,891141.3
+150,Mercedes-Benz,Altima,2008,Aquamarine,736912.72
+151,BMW,Civic,1992,Violet,306003.76
+152,Mercedes-Benz,911,1993,Purple,556453.01
+153,Porsche,Civic,1953,Turquoise,659463.67
+154,Tesla,Mustang,1980,Yellow,974280.46
+155,Audi,Camry,2001,Khaki,573571.89
+156,Porsche,Mustang,1957,Yellow,320607.79
+157,Mercedes-Benz,Corvette,1979,Indigo,860592.6
+158,Toyota,3 Series,2013,Purple,171922.85
+159,Tesla,E-Class,1977,Pink,420402.54
+160,Nissan,Model S,2004,Aquamarine,499088.47
+161,Ford,Civic,2020,Mauv,517612.73
+162,Porsche,Altima,2012,Teal,718015.08
+163,Toyota,Model S,1953,Orange,554817.61
+164,BMW,Altima,1996,Goldenrod,743659.57
+165,Tesla,E-Class,1994,Mauv,178483.47
+166,Audi,A4,2019,Indigo,146701.96
+167,Porsche,911,1998,Maroon,291370.15
+168,Nissan,E-Class,2013,Red,746216.44
+169,Tesla,Altima,2003,Aquamarine,467747.57
+170,Toyota,Altima,1997,Teal,27598.52
+171,Porsche,Mustang,1955,Khaki,233793.19
+172,Toyota,Mustang,1986,Goldenrod,640781.76
+173,Toyota,911,1969,Teal,188700.52
+174,Tesla,Camry,1985,Mauv,88305.53
+175,Porsche,Civic,1974,Red,25309.8
+176,Mercedes-Benz,Civic,1957,Teal,20066.85
+177,Toyota,Civic,1976,Goldenrod,479391.43
+178,Mercedes-Benz,Civic,1972,Maroon,965228.49
+179,Audi,Civic,1970,Indigo,941763.14
+180,Nissan,A4,2012,Red,720599.86
+181,BMW,Altima,1994,Violet,638910.65
+182,Chevrolet,Model S,1977,Orange,207220.31
+183,Nissan,Mustang,2001,Mauv,52784.02
+184,Nissan,Altima,2022,Goldenrod,18464.46
+185,BMW,Model S,1977,Yellow,83636.27
+186,BMW,Altima,2018,Aquamarine,740796.47
+187,Nissan,Model S,2003,Goldenrod,383949.91
+188,Mercedes-Benz,Mustang,2012,Yellow,664260.8
+189,Tesla,Camry,2021,Yellow,418039.01
+190,Audi,Mustang,2011,Red,138039.23
+191,Audi,Mustang,1955,Aquamarine,689724.92
+192,Porsche,Altima,1994,Green,759827.11
+193,Porsche,Camry,1955,Yellow,653041.96
+194,Tesla,911,1951,Blue,782485.15
+195,Chevrolet,Mustang,2019,Teal,107297.77
+196,Honda,Altima,1992,Maroon,448502.89
+197,Honda,Model S,1989,Goldenrod,496654.92
+198,Audi,Mustang,1987,Crimson,644228.43
+199,BMW,Altima,1974,Orange,873832.34
+200,Mercedes-Benz,Camry,2016,Khaki,660809.26
+201,Nissan,Civic,2016,Teal,391400.24
+202,Tesla,Mustang,1976,Teal,774100.82
+203,Nissan,A4,1975,Maroon,784781.51
+204,Honda,911,1973,Pink,792133.19
+205,Nissan,Camry,1992,Khaki,635524.07
+206,Toyota,Model S,1952,Indigo,47430.67
+207,Honda,3 Series,1964,Mauv,803363.32
+208,Ford,A4,1996,Crimson,873758.59
+209,Toyota,911,1995,Aquamarine,643114.03
+210,Toyota,Camry,2021,Indigo,750697.51
+211,Porsche,Mustang,1968,Blue,904834.78
+212,BMW,A4,2018,Maroon,111763.77
+213,Nissan,911,1965,Yellow,905882.79
+214,Porsche,Mustang,1981,Pink,805955.44
+215,Porsche,911,1994,Goldenrod,403149.01
+216,Porsche,Civic,1977,Goldenrod,776305.72
+217,Toyota,Mustang,2022,Blue,318177.62
+218,Ford,Altima,1983,Turquoise,130038.36
+219,Audi,Model S,2003,Goldenrod,699392.17
+220,Nissan,Corvette,1987,Green,279860.56
+221,Honda,Camry,1984,Goldenrod,774927.03
+222,Toyota,E-Class,1963,Purple,566606.16
+223,Ford,911,2010,Green,490584.08
+224,Mercedes-Benz,A4,1981,Crimson,464323.7
+225,Honda,3 Series,1955,Red,51715.05
+226,Honda,Corvette,1985,Fuscia,251092.4
+227,Porsche,A4,1955,Mauv,559096.14
+228,Chevrolet,Civic,1985,Turquoise,856713.98
+229,Tesla,Mustang,1985,Indigo,581862.16
+230,Porsche,3 Series,2001,Turquoise,577013.45
+231,Tesla,Altima,1985,Green,79718.97
+232,BMW,Civic,1982,Aquamarine,145410.19
+233,Ford,E-Class,1987,Aquamarine,132258.0
+234,BMW,Altima,1993,Fuscia,132644.18
+235,Toyota,911,1963,Khaki,287025.99
+236,Chevrolet,Model S,1968,Purple,295122.24
+237,Honda,Mustang,2018,Goldenrod,30309.73
+238,Mercedes-Benz,Camry,1964,Indigo,432310.01
+239,Honda,Camry,1958,Mauv,932911.33
+240,Toyota,Camry,1992,Red,543705.7
+241,Audi,Civic,1963,Violet,189514.24
+242,Ford,Mustang,2003,Puce,249822.24
+243,Honda,E-Class,2018,Purple,222521.19
+244,Audi,A4,2019,Aquamarine,89155.26
+245,Chevrolet,Camry,1971,Fuscia,400722.2
+246,Nissan,Corvette,1977,Purple,363651.49
+247,Mercedes-Benz,Corvette,1971,Maroon,237088.56
+248,Ford,Camry,2013,Purple,756691.02
+249,Toyota,Altima,1959,Maroon,387051.38
+250,Mercedes-Benz,Corvette,1995,Khaki,766496.57
+251,Audi,Civic,2001,Purple,35152.88
+252,Ford,Civic,2018,Green,546380.63
+253,Honda,A4,1954,Red,229721.99
+254,Audi,Camry,2007,Pink,463204.55
+255,Nissan,Model S,1994,Maroon,517599.27
+256,Mercedes-Benz,Civic,2003,Pink,285013.6
+257,Tesla,3 Series,1971,Fuscia,64415.37
+258,Honda,Corvette,1967,Orange,568385.69
+259,Audi,Corvette,2009,Pink,65297.74
+260,BMW,A4,1977,Khaki,936248.64
+261,Ford,911,1979,Aquamarine,135108.94
+262,Audi,Mustang,2004,Puce,24720.72
+263,BMW,Mustang,2006,Red,655292.36
+264,Tesla,Corvette,1972,Maroon,196184.15
+265,Toyota,Camry,1982,Yellow,658134.51
+266,Tesla,Mustang,1992,Indigo,533533.92
+267,Audi,Altima,2002,Purple,438407.21
+268,BMW,E-Class,1954,Blue,119638.49
+269,BMW,3 Series,1964,Goldenrod,352870.27
+270,Audi,Corvette,2014,Khaki,322867.78
+271,Porsche,Corvette,1992,Pink,903003.41
+272,Mercedes-Benz,A4,1955,Mauv,739416.96
+273,Ford,Altima,1985,Green,604710.74
+274,Chevrolet,Model S,1981,Yellow,25077.95
+275,Chevrolet,Altima,2001,Red,618490.6
+276,Porsche,Mustang,1975,Indigo,779810.1
+277,BMW,Model S,1980,Goldenrod,330744.54
+278,Audi,Corvette,1994,Orange,883938.02
+279,Porsche,Mustang,1964,Violet,828166.25
+280,Ford,Corvette,2008,Violet,356020.24
+281,Mercedes-Benz,Camry,1958,Aquamarine,714853.5
+282,BMW,Camry,2012,Orange,845586.68
+283,Ford,E-Class,2008,Turquoise,741938.38
+284,Tesla,911,1966,Blue,704275.66
+285,Ford,E-Class,1950,Orange,551058.46
+286,Nissan,3 Series,1989,Red,537177.69
+287,BMW,Camry,1968,Indigo,554200.8
+288,Chevrolet,3 Series,2022,Teal,955471.56
+289,Chevrolet,3 Series,2002,Fuscia,936936.23
+290,Nissan,Camry,2004,Khaki,439834.36
+291,Toyota,Civic,2015,Khaki,20887.24
+292,Porsche,Mustang,1979,Purple,609681.04
+293,Audi,A4,1969,Maroon,831399.03
+294,Ford,Camry,2004,Purple,485494.36
+295,BMW,Civic,2004,Pink,887836.52
+296,Ford,Civic,1963,Crimson,333747.01
+297,BMW,Mustang,2006,Purple,940909.86
+298,Audi,Civic,1959,Turquoise,742424.43
+299,Porsche,Model S,1960,Red,1568.6
+300,Nissan,E-Class,2017,Green,26321.36
+301,Mercedes-Benz,Mustang,1955,Pink,113277.45
+302,Toyota,Model S,2002,Aquamarine,365193.65
+303,Mercedes-Benz,Camry,1962,Green,182783.82
+304,Honda,911,1983,Orange,526488.77
+305,Ford,Corvette,2004,Orange,882696.38
+306,Nissan,A4,2009,Mauv,409346.86
+307,Toyota,Model S,2008,Indigo,351509.05
+308,BMW,Corvette,2005,Orange,507594.11
+309,Nissan,Mustang,1985,Puce,214765.48
+310,BMW,Civic,1975,Maroon,421399.37
+311,Audi,Mustang,1997,Violet,292036.23
+312,Tesla,A4,1992,Aquamarine,739955.52
+313,Tesla,Corvette,2016,Yellow,406801.21
+314,Chevrolet,911,1976,Maroon,428246.6
+315,Porsche,Altima,1978,Fuscia,531369.04
+316,BMW,Mustang,1967,Pink,677368.29
+317,Nissan,Model S,1990,Violet,663275.09
+318,Mercedes-Benz,Model S,1950,Yellow,272231.29
+319,Tesla,Civic,1992,Indigo,196824.87
+320,Honda,Model S,2022,Crimson,748245.46
+321,Tesla,Camry,1997,Violet,665392.98
+322,Audi,911,1978,Khaki,762402.61
+323,Porsche,E-Class,1968,Violet,623242.08
+324,Honda,911,1968,Teal,900455.98
+325,Audi,Mustang,1998,Mauv,383146.37
+326,Ford,Model S,1951,Crimson,902440.45
+327,Tesla,Corvette,1997,Indigo,390722.95
+328,Porsche,E-Class,2000,Teal,983154.78
+329,Mercedes-Benz,911,2014,Puce,998569.37
+330,Ford,Camry,1982,Teal,520863.48
+331,Nissan,Mustang,1963,Fuscia,278451.87
+332,Audi,Camry,2021,Purple,539847.04
+333,Chevrolet,Mustang,1968,Fuscia,716562.52
+334,Audi,Mustang,1995,Blue,540662.25
+335,BMW,Corvette,2011,Goldenrod,350941.29
+336,BMW,Model S,1977,Maroon,426590.57
+337,Mercedes-Benz,A4,2004,Turquoise,225606.14
+338,Honda,E-Class,2007,Khaki,619398.04
+339,Toyota,E-Class,2002,Fuscia,45397.14
+340,Audi,3 Series,1969,Puce,78574.72
+341,Tesla,Altima,1982,Khaki,786205.94
+342,Honda,A4,2022,Mauv,157058.41
+343,Audi,Altima,1961,Aquamarine,548938.41
+344,Chevrolet,Model S,1987,Red,217645.25
+345,Audi,Model S,1951,Green,796687.55
+346,Honda,A4,2016,Orange,837447.07
+347,Porsche,Corvette,1975,Indigo,188245.5
+348,Mercedes-Benz,Altima,2010,Yellow,639804.72
+349,Chevrolet,A4,2022,Fuscia,513746.28
+350,Porsche,Mustang,1988,Violet,995765.7
+351,Honda,Camry,1972,Violet,257778.04
+352,Audi,Altima,1968,Crimson,650823.81
+353,Mercedes-Benz,Camry,1958,Indigo,975184.09
+354,Nissan,Civic,1971,Yellow,105318.9
+355,Audi,3 Series,1997,Puce,792014.16
+356,Audi,E-Class,1961,Turquoise,462831.5
+357,Porsche,Mustang,1989,Yellow,802453.66
+358,Honda,A4,2014,Aquamarine,841593.84
+359,BMW,Camry,2005,Pink,214026.56
+360,Nissan,Civic,1995,Teal,385034.0
+361,Chevrolet,Corvette,1982,Orange,661752.97
+362,Tesla,Corvette,2018,Red,242544.65
+363,Chevrolet,Model S,2011,Crimson,126013.82
+364,BMW,Altima,1966,Yellow,654495.59
+365,Tesla,Altima,1956,Yellow,724936.21
+366,Nissan,Civic,1980,Blue,892004.43
+367,Ford,Civic,1977,Turquoise,799713.78
+368,BMW,3 Series,1956,Purple,824616.07
+369,Tesla,3 Series,1973,Violet,137556.68
+370,BMW,911,1970,Crimson,727981.91
+371,Tesla,Model S,1956,Teal,319665.93
+372,Porsche,A4,2006,Violet,428947.84
+373,Mercedes-Benz,Camry,1966,Turquoise,19014.16
+374,Toyota,A4,1957,Yellow,311693.64
+375,Mercedes-Benz,Camry,2006,Orange,699597.4
+376,BMW,Altima,1951,Yellow,785120.19
+377,Honda,Altima,2008,Puce,604638.4
+378,Toyota,E-Class,1985,Green,229248.31
+379,BMW,E-Class,1999,Green,431482.51
+380,Toyota,Corvette,1985,Pink,958660.12
+381,Audi,Model S,1996,Teal,173126.34
+382,Mercedes-Benz,Mustang,1970,Aquamarine,685704.6
+383,Audi,Civic,1998,Crimson,707503.91
+384,Audi,Corvette,1992,Crimson,309249.56
+385,Honda,3 Series,1991,Maroon,644718.79
+386,Toyota,911,1978,Violet,149045.53
+387,Porsche,Camry,1962,Aquamarine,524879.11
+388,Nissan,Camry,2000,Indigo,122940.58
+389,Toyota,Civic,1974,Yellow,397216.71
+390,Mercedes-Benz,911,1966,Puce,831611.4
+391,Audi,Mustang,2003,Mauv,977461.21
+392,Chevrolet,A4,1968,Aquamarine,424065.35
+393,BMW,Model S,2007,Fuscia,385728.61
+394,Toyota,Mustang,1969,Yellow,881317.32
+395,Tesla,A4,1955,Aquamarine,212347.73
+396,Porsche,911,1956,Blue,466089.27
+397,Toyota,Civic,2014,Crimson,825316.01
+398,BMW,3 Series,1990,Goldenrod,335662.46
+399,Audi,A4,1991,Puce,367887.13
+400,Nissan,3 Series,1991,Violet,945734.91
+401,Mercedes-Benz,A4,1986,Green,740599.57
+402,Mercedes-Benz,Camry,1969,Red,422563.99
+403,Ford,3 Series,2019,Blue,104401.98
+404,Honda,Corvette,1981,Aquamarine,290608.47
+405,Honda,Camry,2014,Purple,156086.91
+406,Chevrolet,Mustang,1972,Goldenrod,569139.62
+407,Chevrolet,Altima,2012,Pink,179066.89
+408,Mercedes-Benz,911,1976,Puce,90685.77
+409,Mercedes-Benz,Civic,2000,Yellow,425645.05
+410,Honda,Civic,2016,Purple,553533.84
+411,Nissan,Civic,1963,Yellow,279624.82
+412,Porsche,Corvette,1972,Goldenrod,419452.88
+413,Nissan,Camry,2004,Purple,804958.71
+414,Audi,Altima,2001,Mauv,313153.82
+415,BMW,Corvette,2016,Orange,321104.47
+416,BMW,Civic,1987,Goldenrod,957308.59
+417,Chevrolet,Camry,2022,Blue,775249.21
+418,Honda,911,1983,Mauv,710475.24
+419,Tesla,Camry,1982,Blue,949117.39
+420,Audi,3 Series,2002,Yellow,404829.45
+421,Chevrolet,Mustang,1960,Goldenrod,43431.65
+422,Toyota,E-Class,2011,Teal,538954.71
+423,Mercedes-Benz,911,1951,Yellow,370770.63
+424,Nissan,Model S,1960,Aquamarine,859699.12
+425,Mercedes-Benz,911,2009,Orange,268060.02
+426,Porsche,Model S,1994,Red,276163.33
+427,Porsche,E-Class,1973,Mauv,668821.0
+428,Mercedes-Benz,A4,1994,Crimson,732460.3
+429,Mercedes-Benz,A4,1978,Blue,649450.84
+430,Audi,Altima,2018,Khaki,112945.46
+431,Nissan,Civic,1987,Puce,403931.87
+432,Honda,Altima,2014,Blue,34454.64
+433,Honda,E-Class,2001,Maroon,837435.25
+434,Tesla,Altima,1993,Yellow,683400.72
+435,Porsche,Altima,1987,Purple,336663.3
+436,Nissan,3 Series,1994,Red,960724.08
+437,Mercedes-Benz,Corvette,1975,Orange,460126.84
+438,Honda,Altima,1951,Yellow,932633.03
+439,Honda,3 Series,1976,Mauv,563134.47
+440,Mercedes-Benz,E-Class,1991,Green,688310.92
+441,Ford,Camry,1972,Crimson,164662.84
+442,Porsche,Model S,2018,Maroon,797523.61
+443,Nissan,A4,1967,Pink,368546.36
+444,Ford,Civic,1956,Blue,533362.9
+445,Honda,Mustang,1956,Goldenrod,521080.39
+446,BMW,Model S,1988,Yellow,492872.4
+447,Porsche,Civic,1968,Crimson,20299.8
+448,Honda,3 Series,1994,Teal,521369.01
+449,Honda,Corvette,2011,Fuscia,948525.29
+450,Honda,911,2022,Purple,128530.34
+451,BMW,911,2001,Purple,139266.72
+452,Ford,Mustang,1999,Orange,924011.67
+453,Chevrolet,911,2020,Red,630331.04
+454,Audi,3 Series,1960,Purple,757690.79
+455,Chevrolet,Mustang,2005,Khaki,321819.41
+456,Mercedes-Benz,Corvette,2015,Maroon,899558.28
+457,Porsche,E-Class,1967,Indigo,146419.12
+458,Porsche,3 Series,1986,Maroon,15013.51
+459,Ford,911,1983,Crimson,300478.85
+460,Ford,3 Series,1989,Aquamarine,522607.22
+461,Audi,Civic,1990,Red,693891.08
+462,Honda,Civic,2012,Khaki,422480.48
+463,Mercedes-Benz,Altima,1962,Blue,270423.04
+464,Ford,Corvette,1985,Turquoise,510270.18
+465,Ford,Camry,1994,Goldenrod,416063.94
+466,Honda,Mustang,2000,Khaki,473417.82
+467,Nissan,911,1998,Green,583357.18
+468,Nissan,Altima,1952,Teal,193392.09
+469,Tesla,A4,1977,Turquoise,439923.35
+470,Mercedes-Benz,A4,2013,Red,990626.55
+471,Audi,A4,1955,Blue,669183.1
+472,Audi,Model S,2006,Khaki,754305.33
+473,Mercedes-Benz,Camry,1984,Puce,984906.09
+474,Ford,Altima,2022,Khaki,879511.48
+475,Honda,A4,1950,Red,785766.44
+476,Chevrolet,Altima,2001,Fuscia,655203.61
+477,Toyota,Altima,1973,Khaki,96058.0
+478,Tesla,911,1969,Pink,909303.4
+479,Ford,911,1952,Violet,454605.92
+480,Tesla,Mustang,1986,Indigo,948678.22
+481,Ford,Civic,1959,Red,751202.52
+482,Tesla,Altima,2002,Goldenrod,760339.8
+483,Tesla,Corvette,2014,Pink,200294.15
+484,Porsche,Camry,2021,Pink,178356.89
+485,BMW,Civic,1980,Purple,951694.95
+486,Tesla,Altima,1954,Yellow,930000.83
+487,Porsche,3 Series,1987,Green,845165.8
+488,Porsche,A4,1971,Puce,840689.34
+489,Nissan,Corvette,1950,Pink,1284.96
+490,Honda,Altima,1968,Green,104076.24
+491,Honda,Corvette,1973,Khaki,12411.28
+492,Honda,Mustang,1991,Goldenrod,299850.26
+493,Porsche,Civic,2019,Indigo,445204.74
+494,Porsche,Model S,1974,Orange,954026.15
+495,Toyota,3 Series,1963,Purple,59594.7
+496,Honda,Corvette,1954,Red,858429.36
+497,Tesla,Camry,1967,Teal,183144.35
+498,Mercedes-Benz,A4,1971,Mauv,142215.26
+499,Porsche,Mustang,1956,Crimson,626684.3
+500,Nissan,Altima,1971,Green,19969.67
+501,Mercedes-Benz,Corvette,1992,Yellow,879216.57
+502,Toyota,Model S,1979,Aquamarine,512565.63
+503,Audi,Civic,2019,Orange,664986.98
+504,Honda,Corvette,2015,Indigo,117676.95
+505,Toyota,Model S,2009,Puce,440529.19
+506,Toyota,Model S,2004,Green,430412.34
+507,Honda,Civic,1964,Puce,617139.46
+508,BMW,911,1981,Teal,131378.51
+509,Porsche,Model S,2013,Yellow,370727.7
+510,Porsche,Camry,1967,Orange,61011.42
+511,Ford,Corvette,2003,Indigo,848370.76
+512,Porsche,911,1969,Aquamarine,27196.09
+513,Honda,Altima,1983,Indigo,598793.06
+514,Nissan,E-Class,1963,Goldenrod,267432.08
+515,Audi,911,1972,Puce,839907.16
+516,Chevrolet,Corvette,1963,Violet,423296.5
+517,Audi,Camry,2009,Khaki,303878.39
+518,Porsche,Civic,1966,Turquoise,544947.94
+519,Mercedes-Benz,911,2003,Turquoise,227083.36
+520,Toyota,Mustang,1980,Blue,156364.29
+521,Toyota,Corvette,1965,Khaki,541393.87
+522,Audi,911,1968,Khaki,401608.21
+523,Ford,Altima,1982,Red,130452.25
+524,Toyota,Mustang,1981,Mauv,468569.41
+525,Honda,A4,2013,Indigo,856884.7
+526,Toyota,Corvette,1979,Fuscia,255984.27
+527,BMW,Civic,2020,Crimson,627032.62
+528,Honda,Altima,1956,Pink,288285.07
+529,Porsche,Mustang,2018,Puce,443762.02
+530,Chevrolet,3 Series,1981,Fuscia,297461.01
+531,Tesla,3 Series,1973,Khaki,511950.73
+532,Ford,Altima,1962,Indigo,460256.89
+533,Ford,Mustang,2008,Turquoise,58737.93
+534,BMW,A4,1989,Red,304274.77
+535,Toyota,3 Series,1966,Blue,872296.87
+536,Toyota,E-Class,1990,Green,394181.6
+537,Mercedes-Benz,3 Series,2021,Teal,9968.73
+538,Honda,Model S,2010,Mauv,698787.64
+539,Chevrolet,Model S,1961,Teal,459374.97
+540,Audi,E-Class,1962,Maroon,529876.44
+541,Ford,E-Class,2002,Indigo,15971.05
+542,Chevrolet,Civic,1966,Purple,957521.96
+543,Chevrolet,E-Class,2007,Fuscia,570566.73
+544,Honda,3 Series,1964,Orange,813341.23
+545,Tesla,E-Class,1978,Green,140334.78
+546,Tesla,3 Series,2019,Turquoise,191366.42
+547,BMW,E-Class,1971,Mauv,21484.44
+548,Tesla,Altima,1954,Blue,904764.77
+549,Honda,E-Class,1962,Turquoise,840513.14
+550,Honda,Civic,2015,Fuscia,562857.35
+551,Mercedes-Benz,Altima,1950,Teal,89463.11
+552,BMW,E-Class,1956,Violet,396786.92
+553,Ford,E-Class,2021,Mauv,407342.59
+554,Honda,A4,1950,Puce,321337.22
+555,Tesla,Corvette,1973,Orange,205012.43
+556,Mercedes-Benz,Altima,1965,Green,363063.23
+557,Porsche,Altima,1990,Yellow,866044.61
+558,Porsche,Model S,1958,Goldenrod,271268.7
+559,Toyota,Civic,2007,Teal,209670.55
+560,Ford,Corvette,2019,Yellow,671596.52
+561,BMW,Camry,1999,Red,402083.17
+562,Mercedes-Benz,A4,1958,Pink,926767.77
+563,Ford,Camry,1962,Goldenrod,647408.88
+564,Tesla,911,1976,Indigo,640805.25
+565,Honda,Altima,1993,Pink,231785.67
+566,Chevrolet,911,1954,Pink,73332.36
+567,Toyota,3 Series,2001,Indigo,347580.69
+568,Chevrolet,E-Class,2020,Blue,621437.01
+569,Tesla,Civic,1974,Mauv,333263.63
+570,Nissan,3 Series,1996,Purple,524340.38
+571,Chevrolet,3 Series,2009,Khaki,643228.83
+572,Ford,911,1972,Maroon,453522.16
+573,Toyota,A4,2006,Teal,611293.65
+574,Toyota,Corvette,2011,Blue,84458.81
+575,Mercedes-Benz,A4,1951,Mauv,453936.39
+576,Tesla,Altima,2002,Indigo,554119.25
+577,Nissan,Camry,1966,Crimson,695780.72
+578,Honda,Corvette,1980,Maroon,97973.7
+579,Porsche,Altima,1972,Pink,738677.29
+580,Toyota,E-Class,1996,Violet,800965.89
+581,Audi,Camry,2011,Yellow,820783.66
+582,Audi,Model S,1983,Indigo,70986.7
+583,Tesla,Camry,2012,Violet,800240.6
+584,Mercedes-Benz,Altima,1987,Blue,753106.04
+585,Chevrolet,Corvette,2008,Puce,360352.37
+586,Mercedes-Benz,Civic,1997,Fuscia,138570.59
+587,Mercedes-Benz,911,1982,Yellow,275248.73
+588,Ford,Model S,1989,Turquoise,363955.17
+589,Toyota,Civic,1955,Turquoise,29754.29
+590,Mercedes-Benz,911,1997,Teal,664907.13
+591,Tesla,E-Class,1994,Maroon,911617.97
+592,Tesla,Altima,2017,Blue,527100.51
+593,Ford,3 Series,2000,Blue,27859.77
+594,Audi,3 Series,1969,Indigo,627968.53
+595,BMW,E-Class,2007,Khaki,242111.8
+596,Audi,Corvette,1967,Crimson,410617.84
+597,Tesla,Civic,2000,Puce,328843.54
+598,Toyota,Altima,2000,Orange,984719.29
+599,Tesla,Model S,1970,Aquamarine,388799.42
+600,Mercedes-Benz,A4,1993,Violet,301885.71
+601,Audi,A4,1977,Blue,34711.56
+602,Ford,Mustang,1982,Khaki,931165.54
+603,Chevrolet,Camry,1988,Red,8244.44
+604,Nissan,911,2004,Maroon,142473.36
+605,Toyota,911,2019,Khaki,739788.22
+606,Porsche,3 Series,2005,Blue,753260.2
+607,Toyota,Model S,1963,Green,985530.68
+608,Ford,Camry,1998,Red,3660.56
+609,Tesla,911,1993,Blue,668996.59
+610,Chevrolet,911,2019,Puce,743337.86
+611,Mercedes-Benz,3 Series,1959,Yellow,435135.37
+612,BMW,A4,1960,Puce,109342.15
+613,Mercedes-Benz,Corvette,1972,Blue,320042.99
+614,Porsche,Corvette,1981,Green,724354.1
+615,BMW,E-Class,1974,Maroon,113782.67
+616,Audi,A4,2021,Green,541415.09
+617,Tesla,A4,1975,Khaki,700769.11
+618,Chevrolet,Corvette,1984,Crimson,365335.06
+619,Honda,A4,1995,Purple,382019.16
+620,Tesla,911,2017,Maroon,344007.7
+621,Toyota,Civic,2019,Crimson,870323.47
+622,Honda,A4,1994,Maroon,684803.4
+623,Chevrolet,Corvette,2005,Turquoise,357995.6
+624,Chevrolet,Corvette,2013,Yellow,279788.57
+625,BMW,E-Class,1973,Green,310649.28
+626,Audi,Mustang,1955,Pink,482023.14
+627,Toyota,911,1998,Mauv,562673.25
+628,Audi,911,1960,Indigo,343093.21
+629,Tesla,Camry,1994,Pink,369393.82
+630,BMW,Model S,1972,Turquoise,377121.65
+631,Honda,Civic,1952,Purple,940478.19
+632,Mercedes-Benz,Altima,2021,Mauv,863661.86
+633,Honda,Altima,1982,Crimson,756154.67
+634,Audi,Model S,1983,Red,641933.08
+635,Porsche,Altima,1992,Goldenrod,857014.0
+636,Honda,Mustang,2000,Maroon,493157.9
+637,Toyota,Mustang,1978,Green,663353.07
+638,Tesla,Mustang,1968,Crimson,290958.4
+639,Audi,A4,1957,Crimson,400573.31
+640,Porsche,911,1953,Mauv,566877.73
+641,BMW,Corvette,1982,Purple,729326.15
+642,Audi,Civic,1988,Indigo,566300.62
+643,Nissan,911,1964,Puce,640502.15
+644,Toyota,3 Series,1999,Red,135270.86
+645,Audi,Corvette,2020,Aquamarine,963570.45
+646,Honda,Altima,2017,Blue,654239.06
+647,Ford,E-Class,1955,Mauv,270886.88
+648,Honda,A4,1992,Aquamarine,122632.12
+649,Tesla,Model S,1965,Indigo,223483.95
+650,Tesla,Camry,1998,Turquoise,396149.98
+651,Audi,911,1970,Indigo,737834.92
+652,Nissan,Model S,1967,Red,314431.73
+653,Porsche,911,1972,Teal,938848.54
+654,Honda,3 Series,1997,Aquamarine,37625.72
+655,Ford,Civic,1974,Crimson,732878.37
+656,Toyota,A4,1994,Mauv,709950.87
+657,Nissan,Corvette,2021,Puce,171757.04
+658,Porsche,Corvette,1991,Fuscia,371775.62
+659,Mercedes-Benz,E-Class,2010,Violet,238353.1
+660,Porsche,Corvette,1998,Orange,325872.05
+661,BMW,Altima,1974,Crimson,69866.36
+662,Audi,Civic,1994,Green,666815.92
+663,Honda,Mustang,1964,Maroon,335612.13
+664,Ford,Camry,1979,Red,533953.31
+665,Honda,E-Class,1971,Blue,279616.3
+666,Ford,911,1952,Mauv,955450.19
+667,Honda,911,2001,Blue,217423.15
+668,Toyota,Civic,1986,Yellow,459666.25
+669,BMW,Camry,1995,Fuscia,175299.58
+670,Toyota,Corvette,1962,Turquoise,715495.42
+671,Tesla,A4,1950,Purple,758439.84
+672,Audi,Camry,1994,Puce,706904.54
+673,Chevrolet,A4,1995,Aquamarine,199423.51
+674,BMW,Camry,2001,Mauv,491209.21
+675,Chevrolet,Corvette,1960,Red,194573.6
+676,Honda,Mustang,2012,Orange,271594.96
+677,Audi,E-Class,1980,Indigo,953053.91
+678,Mercedes-Benz,Corvette,2015,Violet,347381.73
+679,Mercedes-Benz,Mustang,2008,Pink,699490.03
+680,Audi,Mustang,2020,Orange,223363.71
+681,Ford,Altima,2011,Violet,473589.3
+682,Toyota,A4,1989,Turquoise,854010.2
+683,Nissan,Civic,1974,Indigo,983066.07
+684,Chevrolet,3 Series,1958,Blue,143210.25
+685,Audi,Mustang,1972,Green,765184.16
+686,Toyota,Camry,1988,Pink,903447.69
+687,Chevrolet,Camry,1972,Turquoise,209227.74
+688,Tesla,Model S,1953,Crimson,464710.03
+689,Tesla,Corvette,1987,Orange,36915.92
+690,Honda,911,2006,Blue,235846.6
+691,Mercedes-Benz,3 Series,2002,Goldenrod,920083.08
+692,Audi,Camry,1994,Red,743302.57
+693,Audi,Altima,1990,Maroon,27129.15
+694,Honda,Civic,1960,Mauv,482655.08
+695,Tesla,E-Class,1996,Aquamarine,167036.08
+696,Ford,Altima,1962,Fuscia,519083.47
+697,Ford,Model S,2000,Yellow,746557.25
+698,Toyota,E-Class,1984,Turquoise,407203.46
+699,BMW,Mustang,1982,Indigo,942237.46
+700,Ford,Corvette,1999,Purple,114870.86
+701,Nissan,911,1988,Blue,884141.04
+702,Audi,Camry,1959,Blue,165048.73
+703,BMW,Altima,1985,Goldenrod,425391.12
+704,Honda,911,1979,Orange,75067.54
+705,Audi,A4,2020,Crimson,721638.07
+706,Porsche,A4,2017,Orange,575891.13
+707,BMW,Civic,2010,Green,459274.82
+708,Chevrolet,Mustang,1976,Mauv,906948.69
+709,Tesla,911,1964,Turquoise,378742.24
+710,Mercedes-Benz,911,2018,Indigo,194520.23
+711,Toyota,E-Class,2017,Goldenrod,912186.47
+712,Nissan,A4,1967,Puce,870176.7
+713,Tesla,911,2022,Aquamarine,377825.93
+714,Tesla,Corvette,1993,Fuscia,235070.51
+715,Tesla,911,1959,Green,172961.58
+716,Toyota,911,1953,Aquamarine,274807.16
+717,BMW,Model S,2018,Indigo,910858.36
+718,Tesla,E-Class,2014,Red,467672.6
+719,Nissan,3 Series,1986,Pink,407423.83
+720,Porsche,3 Series,1977,Orange,766025.19
+721,Mercedes-Benz,Altima,1950,Green,861927.89
+722,Ford,Camry,1976,Blue,930006.96
+723,Tesla,Mustang,2000,Puce,600929.41
+724,Chevrolet,Camry,1982,Indigo,107293.56
+725,Toyota,911,2022,Aquamarine,136110.92
+726,Nissan,3 Series,2010,Red,151519.62
+727,Toyota,Corvette,2020,Red,687493.04
+728,Mercedes-Benz,Model S,1987,Green,678186.71
+729,Nissan,A4,2011,Purple,798480.77
+730,Porsche,Mustang,2008,Aquamarine,37318.61
+731,Nissan,Model S,2015,Fuscia,113180.97
+732,BMW,Altima,1966,Yellow,4647.52
+733,Mercedes-Benz,911,1989,Turquoise,491619.15
+734,Mercedes-Benz,3 Series,1978,Green,915789.88
+735,Ford,911,1968,Green,480954.24
+736,Nissan,Civic,2018,Maroon,99278.4
+737,Nissan,Altima,1982,Fuscia,709497.99
+738,Ford,Mustang,2005,Pink,597947.47
+739,Audi,911,2017,Fuscia,107205.05
+740,Honda,Civic,2018,Purple,226225.97
+741,Tesla,A4,1950,Purple,645604.62
+742,Ford,Camry,1953,Red,734937.03
+743,Nissan,Corvette,2015,Orange,572836.84
+744,Mercedes-Benz,3 Series,2001,Maroon,783229.15
+745,Tesla,A4,2012,Maroon,904379.34
+746,Chevrolet,911,2018,Red,357158.81
+747,Mercedes-Benz,Camry,1975,Puce,740003.0
+748,Porsche,E-Class,2007,Violet,803712.56
+749,Honda,Corvette,2000,Teal,546069.92
+750,Porsche,Corvette,1984,Indigo,814991.03
+751,Chevrolet,Model S,1984,Indigo,33055.38
+752,Mercedes-Benz,Camry,1951,Crimson,416684.18
+753,Ford,Civic,1978,Crimson,240925.37
+754,Chevrolet,911,1969,Turquoise,195955.3
+755,Audi,Model S,2017,Green,423020.05
+756,Chevrolet,Model S,1999,Teal,121848.89
+757,Nissan,Camry,1988,Crimson,790765.17
+758,Toyota,Altima,1968,Indigo,27369.52
+759,Nissan,Civic,1966,Green,558004.4
+760,Mercedes-Benz,3 Series,2009,Green,49371.16
+761,Audi,Civic,1983,Green,92172.99
+762,Honda,3 Series,2011,Green,348101.74
+763,Honda,Corvette,1962,Fuscia,886118.74
+764,Ford,Civic,1964,Mauv,535092.42
+765,Toyota,3 Series,2020,Fuscia,582216.8
+766,Honda,3 Series,1962,Khaki,197127.45
+767,Nissan,Corvette,2015,Pink,982773.78
+768,BMW,911,2006,Indigo,306184.27
+769,Toyota,Model S,1964,Red,569397.34
+770,Nissan,E-Class,1972,Green,215139.6
+771,Honda,Corvette,1962,Indigo,26901.1
+772,Porsche,Civic,1997,Indigo,703977.97
+773,Honda,3 Series,1969,Fuscia,76581.44
+774,Ford,Model S,1990,Crimson,5084.37
+775,Chevrolet,911,1993,Turquoise,871174.6
+776,Porsche,E-Class,2020,Blue,915015.3
+777,Audi,Altima,1968,Red,28159.61
+778,Chevrolet,Camry,2020,Aquamarine,398871.76
+779,Mercedes-Benz,Altima,2000,Violet,94938.56
+780,Ford,Civic,1963,Fuscia,19444.78
+781,Porsche,Model S,1983,Yellow,567645.6
+782,Tesla,911,1962,Blue,859631.9
+783,Ford,3 Series,1994,Maroon,908479.17
+784,Audi,Altima,1950,Turquoise,184779.03
+785,Toyota,Corvette,1972,Red,975418.5
+786,Toyota,E-Class,2022,Aquamarine,62752.78
+787,Toyota,Corvette,2008,Blue,327312.28
+788,Audi,Camry,2004,Puce,357598.23
+789,BMW,E-Class,2002,Violet,162886.15
+790,Porsche,Civic,2015,Teal,611405.31
+791,Porsche,Civic,2009,Blue,952302.58
+792,Audi,911,1956,Teal,148797.77
+793,Mercedes-Benz,911,1985,Teal,119843.82
+794,Tesla,Camry,1959,Orange,659038.34
+795,Nissan,A4,1954,Blue,338614.86
+796,Audi,911,1991,Green,17829.74
+797,BMW,Civic,2022,Teal,244635.62
+798,Chevrolet,Camry,2008,Purple,261601.18
+799,Tesla,A4,2004,Violet,271643.17
+800,Mercedes-Benz,911,1982,Khaki,406411.15
+801,Honda,Corvette,2014,Yellow,561467.94
+802,Ford,A4,1989,Red,671784.74
+803,BMW,Civic,2000,Aquamarine,934556.91
+804,BMW,Civic,1999,Green,771007.79
+805,Ford,3 Series,1965,Teal,122573.82
+806,Tesla,911,2003,Fuscia,666801.94
+807,Mercedes-Benz,E-Class,1975,Indigo,172332.42
+808,Porsche,Corvette,1980,Teal,161681.17
+809,Ford,Camry,1965,Indigo,670119.31
+810,Toyota,Mustang,2009,Turquoise,6386.08
+811,Ford,A4,1963,Yellow,400016.86
+812,BMW,Corvette,1975,Orange,680916.8
+813,Ford,911,1987,Green,64086.02
+814,Nissan,Corvette,1992,Red,334679.32
+815,Mercedes-Benz,A4,2005,Aquamarine,164317.46
+816,Nissan,Altima,2017,Yellow,972328.12
+817,Audi,A4,1964,Blue,663170.73
+818,Toyota,Model S,1985,Green,509037.82
+819,Audi,Mustang,1987,Teal,152949.42
+820,Toyota,Model S,2011,Maroon,813251.24
+821,Audi,Civic,1979,Orange,514271.48
+822,Mercedes-Benz,3 Series,2021,Teal,774309.28
+823,Toyota,Camry,1969,Khaki,787036.1
+824,Mercedes-Benz,Model S,2001,Green,823334.15
+825,Tesla,3 Series,1977,Blue,726161.05
+826,BMW,Corvette,1993,Aquamarine,801677.44
+827,Audi,Altima,1958,Teal,951522.24
+828,Honda,E-Class,1959,Indigo,306107.59
+829,Toyota,Corvette,1971,Teal,191311.54
+830,Honda,3 Series,1963,Khaki,671565.83
+831,Mercedes-Benz,A4,1997,Red,495012.84
+832,Honda,Corvette,1992,Teal,20694.75
+833,BMW,E-Class,1963,Aquamarine,972537.59
+834,Tesla,Camry,2004,Red,638889.82
+835,Audi,Corvette,1979,Goldenrod,385926.09
+836,Honda,A4,1963,Khaki,29980.13
+837,Tesla,Altima,2022,Red,919547.66
+838,Nissan,Corvette,1967,Green,862185.42
+839,Honda,Altima,1950,Yellow,29564.58
+840,Nissan,Camry,1956,Mauv,59309.23
+841,Honda,Camry,1969,Teal,124597.2
+842,Toyota,Altima,1953,Orange,81964.64
+843,Mercedes-Benz,3 Series,2014,Fuscia,741314.0
+844,Porsche,Camry,1967,Violet,585739.96
+845,Chevrolet,Altima,2001,Pink,787790.26
+846,Toyota,E-Class,2006,Mauv,508591.73
+847,Chevrolet,3 Series,1981,Puce,833176.78
+848,BMW,911,1957,Red,352676.26
+849,Nissan,3 Series,2012,Fuscia,703084.63
+850,Nissan,Altima,1978,Turquoise,587484.66
+851,Toyota,Corvette,2007,Mauv,197840.22
+852,BMW,A4,1972,Red,729160.45
+853,Nissan,Camry,1968,Blue,825703.37
+854,Honda,Altima,1973,Maroon,895563.73
+855,Honda,Model S,1960,Purple,849121.63
+856,Porsche,3 Series,1986,Turquoise,489101.1
+857,BMW,A4,1957,Maroon,947461.1
+858,BMW,Mustang,2014,Aquamarine,98151.69
+859,Honda,Mustang,1994,Maroon,839517.64
+860,Tesla,Corvette,2007,Goldenrod,521203.89
+861,BMW,E-Class,2008,Maroon,734511.16
+862,Audi,Mustang,1968,Orange,517085.78
+863,Toyota,Camry,1963,Teal,959507.36
+864,BMW,911,2020,Maroon,837201.74
+865,BMW,Mustang,1994,Green,539757.02
+866,Tesla,3 Series,2000,Khaki,930848.72
+867,Toyota,Model S,1954,Crimson,285627.89
+868,Chevrolet,Camry,2019,Green,148530.49
+869,Nissan,A4,1981,Indigo,649967.9
+870,Chevrolet,E-Class,2001,Orange,202642.38
+871,Ford,Corvette,1958,Indigo,702872.26
+872,Toyota,Camry,1972,Yellow,737464.54
+873,Chevrolet,Model S,1957,Indigo,537814.84
+874,Audi,Camry,2021,Puce,495991.42
+875,Honda,Corvette,1978,Fuscia,895834.23
+876,BMW,E-Class,1988,Blue,261714.9
+877,Chevrolet,Civic,1965,Aquamarine,96630.97
+878,Ford,Altima,1974,Green,988208.84
+879,Mercedes-Benz,Model S,2020,Crimson,690586.96
+880,Ford,A4,2000,Turquoise,24246.95
+881,BMW,3 Series,2012,Indigo,917371.29
+882,Honda,Altima,1975,Green,951545.97
+883,Mercedes-Benz,Mustang,2022,Khaki,610879.95
+884,Tesla,Mustang,1953,Pink,775942.74
+885,Ford,Corvette,1999,Green,100577.3
+886,Tesla,E-Class,1991,Turquoise,441546.43
+887,Nissan,E-Class,1985,Mauv,398310.27
+888,Ford,A4,1951,Green,535540.84
+889,Audi,Corvette,1959,Khaki,769884.04
+890,BMW,Model S,1994,Crimson,498683.63
+891,Ford,A4,1952,Pink,19094.81
+892,Tesla,3 Series,1999,Violet,126713.63
+893,Porsche,E-Class,1985,Fuscia,916049.87
+894,Porsche,Civic,2022,Crimson,516583.88
+895,Chevrolet,Corvette,1962,Indigo,916320.24
+896,Mercedes-Benz,Model S,1974,Maroon,605374.13
+897,Chevrolet,Civic,2005,Puce,565094.23
+898,Toyota,Model S,2009,Puce,432362.51
+899,Porsche,Mustang,1973,Fuscia,421925.5
+900,Toyota,Mustang,1952,Teal,168969.65
+901,Chevrolet,Model S,1980,Purple,98716.75
+902,Mercedes-Benz,3 Series,1996,Puce,615505.01
+903,Nissan,Civic,1993,Fuscia,479274.3
+904,Toyota,Model S,1968,Blue,101146.04
+905,Toyota,911,1953,Orange,942888.24
+906,Toyota,911,2011,Aquamarine,821074.09
+907,Porsche,E-Class,1977,Turquoise,308451.34
+908,Ford,Camry,1975,Teal,196294.77
+909,Audi,E-Class,2016,Purple,923959.77
+910,BMW,911,2010,Green,14365.6
+911,Nissan,Mustang,2010,Yellow,774978.25
+912,Honda,Model S,2015,Green,118430.86
+913,Toyota,Mustang,1951,Blue,572541.86
+914,Toyota,3 Series,1986,Green,442293.54
+915,Honda,E-Class,2013,Puce,548072.75
+916,Nissan,3 Series,1969,Blue,24663.09
+917,Tesla,Model S,2014,Maroon,755824.38
+918,Audi,Model S,1985,Aquamarine,45689.62
+919,Toyota,911,1956,Purple,891335.18
+920,BMW,Camry,1983,Blue,56577.34
+921,Tesla,A4,2009,Orange,547983.43
+922,Honda,Altima,1960,Indigo,54795.63
+923,Ford,Altima,2010,Khaki,543188.48
+924,Tesla,Altima,2022,Blue,426302.64
+925,BMW,Camry,1995,Orange,670909.31
+926,Ford,Camry,1982,Teal,831026.1
+927,Audi,3 Series,2021,Khaki,647135.89
+928,Tesla,Altima,1977,Green,289408.22
+929,Ford,Civic,1972,Khaki,412835.01
+930,Chevrolet,911,1958,Mauv,131290.35
+931,BMW,Camry,1970,Mauv,351830.55
+932,Chevrolet,A4,2004,Maroon,810592.78
+933,Honda,Model S,1996,Teal,713205.48
+934,Nissan,Mustang,1990,Mauv,105114.66
+935,Chevrolet,Mustang,1983,Pink,360031.68
+936,Honda,911,1952,Orange,812834.43
+937,BMW,Civic,1975,Turquoise,888276.89
+938,Nissan,911,2010,Mauv,781659.73
+939,Tesla,Corvette,2022,Crimson,628443.01
+940,Honda,3 Series,1967,Aquamarine,314477.21
+941,Chevrolet,3 Series,2001,Green,787844.77
+942,Porsche,3 Series,1982,Green,808661.65
+943,Honda,Altima,1986,Blue,101450.0
+944,Ford,Altima,2002,Maroon,257230.72
+945,Toyota,3 Series,1965,Turquoise,607632.2
+946,Porsche,Altima,1954,Mauv,219358.25
+947,Tesla,Camry,1958,Crimson,432374.03
+948,BMW,Civic,1970,Goldenrod,690518.1
+949,Porsche,911,1973,Indigo,950412.55
+950,Nissan,Mustang,1981,Aquamarine,301128.66
+951,Honda,A4,1984,Puce,767727.15
+952,Tesla,911,1954,Goldenrod,80807.76
+953,Audi,Mustang,1950,Violet,24127.74
+954,Chevrolet,3 Series,1979,Mauv,944066.07
+955,Honda,Model S,1956,Green,740840.36
+956,Honda,911,1984,Indigo,837158.68
+957,Mercedes-Benz,Corvette,2001,Mauv,524135.38
+958,Ford,911,1952,Blue,546088.34
+959,Porsche,E-Class,2001,Turquoise,388473.33
+960,Mercedes-Benz,911,1969,Crimson,47178.03
+961,Porsche,911,2002,Pink,496679.0
+962,Porsche,Mustang,1979,Red,569546.34
+963,Toyota,Altima,2003,Crimson,53965.83
+964,Toyota,A4,2001,Teal,557142.95
+965,Nissan,Model S,1988,Violet,36341.03
+966,Porsche,Model S,1989,Indigo,185671.1
+967,BMW,Camry,1960,Teal,47021.74
+968,Nissan,Corvette,1959,Puce,801240.82
+969,BMW,Model S,1976,Aquamarine,905709.22
+970,Porsche,Model S,2010,Khaki,522930.36
+971,Nissan,Corvette,1962,Teal,677025.32
+972,Chevrolet,A4,1968,Violet,617317.81
+973,Audi,Camry,1985,Aquamarine,966119.68
+974,Nissan,Camry,1953,Goldenrod,414790.28
+975,Audi,3 Series,2020,Maroon,111859.11
+976,Toyota,E-Class,1957,Pink,510841.54
+977,Porsche,3 Series,1973,Green,693406.5
+978,Audi,Corvette,1958,Goldenrod,287426.25
+979,BMW,3 Series,2005,Purple,597869.64
+980,BMW,A4,1993,Puce,621661.23
+981,Ford,Model S,2007,Indigo,82004.82
+982,Honda,Altima,1966,Crimson,755146.17
+983,BMW,A4,2004,Maroon,311260.31
+984,Toyota,3 Series,1987,Purple,342191.21
+985,Honda,3 Series,1980,Purple,280919.66
+986,Ford,911,1974,Blue,245252.66
+987,Ford,E-Class,1974,Indigo,50564.81
+988,Porsche,E-Class,1969,Mauv,185891.33
+989,Honda,A4,2012,Crimson,913608.83
+990,Tesla,Altima,1973,Crimson,752480.63
+991,Mercedes-Benz,E-Class,2001,Goldenrod,443249.69
+992,BMW,911,1961,Indigo,521220.67
+993,Tesla,Corvette,2001,Teal,32025.27
+994,Porsche,A4,2001,Red,226150.53
+995,Porsche,911,2001,Maroon,804966.39
+996,Honda,3 Series,2001,Violet,300826.97
+997,Porsche,A4,2021,Aquamarine,336107.7
+998,Tesla,Corvette,1956,Fuscia,521692.01
+999,Chevrolet,911,2020,Puce,712875.29
+1000,Toyota,Altima,1971,Puce,65183.2
