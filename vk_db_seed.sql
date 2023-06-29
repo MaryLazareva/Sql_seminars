@@ -794,6 +794,6 @@ GROUP BY u.id;
 SELECT 
 	body,
     created_at,
-    TIMESTAMPDIFF(DAY, created_at, LEAD(created_at) OVER (ORDER BY created_at)) AS year_diff
+    TIMESTAMPDIFF(DAY, created_at, LEAD(created_at) OVER (ORDER BY created_at)) AS year_difference
 FROM messages;
 
